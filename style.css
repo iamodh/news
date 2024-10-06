@@ -112,6 +112,7 @@ input:focus {
 
 .search {
   position: relative;
+  margin-bottom: 20px;
 }
 
 .search input {
