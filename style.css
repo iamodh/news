@@ -130,6 +130,7 @@ input:focus {
   top: 50%;
   transform: translateY(-50%);
   color: var(--color-grey-10);
+  cursor: pointer;
 }
 
 .btn-mic {
